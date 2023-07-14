@@ -1,0 +1,8 @@
+2023-07-09T09:30:56.7749202 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-07-09T10:12:18.4913112 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-07-09T10:13:21.8884086 404 : [{"timestamp":"2023-07-09T17:13:21.872+00:00","status":404,"error":"Not Found","message":"Transfer not found.","path":"/transfers/3005"}]
+2023-07-09T10:13:31.2272212 404 : [{"timestamp":"2023-07-09T17:13:31.226+00:00","status":404,"error":"Not Found","message":"Transfer not found.","path":"/transfers/30001"}]
+2023-07-09T10:35:37.7752734 404 : [{"timestamp":"2023-07-09T17:35:37.759+00:00","status":404,"error":"Not Found","message":"Transfer not found.","path":"/transfers/1232"}]
+2023-07-09T10:37:52.7704044 404 : [{"timestamp":"2023-07-09T17:37:52.752+00:00","status":404,"error":"Not Found","message":"Transfer not found.","path":"/transfers/12122"}]
+2023-07-09T10:45:33.1946892 404 : [{"timestamp":"2023-07-09T17:45:33.178+00:00","status":404,"error":"Not Found","message":"Transfer not found.","path":"/transfers/12344"}]
+2023-07-09T10:51:00.2954113 404 : [{"timestamp":"2023-07-09T17:51:00.278+00:00","status":404,"error":"Not Found","message":"Transfer not found.","path":"/transfers/3007"}]
